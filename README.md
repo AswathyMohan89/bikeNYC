@@ -2,7 +2,7 @@
 
 ## Background
 
-![Citi-Bikes](Images/citi-bike-station-bikes.jpg) 
+
 
 The following tableau Dashboard visualizes the NYUC Bike ridership data from June 2017 to Decmber 2017.
 
